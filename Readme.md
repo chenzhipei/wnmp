@@ -11,7 +11,7 @@
 
 需要 RunHiddenConsole.zip
 
-下载[RunHiddenConsole.zip](#http://redmine.lighttpd.net/attachments/660/RunHiddenConsole.zip)包，解压到nginx与php目录内。
+下载 [RunHiddenConsole.zip](http://redmine.lighttpd.net/attachments/660/RunHiddenConsole.zip)，解压到nginx与php目录内。
 
 ### 配置服务
 #### php
