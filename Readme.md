@@ -72,7 +72,9 @@ location ~ \.php$ {
 保存配置文件
 
 ### 启动服务
-确定每个文件都放在指定的文件夹后，运行"start_server.bat"启动服务，双击"stop_server.bat"停止服务。
+1、确定每个文件都放在指定的文件夹后，运行"start_server.bat"启动服务，访问http://localhost，查看您所配置的服务站点。
+
+2、双击"stop_server.bat"停止服务。
 
 
 ###备注：
