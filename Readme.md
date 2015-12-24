@@ -81,4 +81,6 @@ location ~ \.php$ {
 --------------------------------------------------------------------------------
 1、"start_server.bat"和"stop_server.bat"可参考我给出的例子。
 
-2、具体详细配置:http://www.cnblogs.com/huayangmeng/archive/2011/06/15/2081337.html
+2、当运行"start_server.bat"，系统提示“无法启动此程序，因为计算机中丢失 MSVCR110.dll。尝试重新安装该程序以解决此问题。”，现在所有的 5.5 环境都是基于 vc11 的编译脚本下生成的，所以在 windows 下你得安装相关组件，[点击此处](http://www.microsoft.com/zh-CN/download/details.aspx?id=30679)下载官方组件。
+
+3、具体详细配置:http://www.cnblogs.com/huayangmeng/archive/2011/06/15/2081337.html
